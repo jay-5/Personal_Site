@@ -227,7 +227,7 @@ input, select, textarea {
 	/* Set your background with this */
 
 		background:  url("https://scontent.fakc1-1.fna.fbcdn.net/v/t1.0-9/64310550_1420710368071999_7425395243807145984_n.jpg?_nc_cat=108&_nc_sid=e3f864&_nc_ohc=Qs5B4HM0FugAX-5WtNy&_nc_ht=scontent.fakc1-1.fna&oh=f49499957acd05ded2123f40462425e4&oe=5F3DE25A") bottom left, url("https://scontent.fakc1-1.fna.fbcdn.net/v/t1.0-9/44730731_1256331127843258_5848152002810347520_n.jpg?_nc_cat=110&_nc_sid=09cbfe&_nc_ohc=XSzbOw_82EYAX9hG6aA&_nc_ht=scontent.fakc1-1.fna&oh=d2a67ec3b221610901f2bf00a9a34ae4&oe=5F402A4C") bottom left;
-		background-repeat: no-repeat, no-repeat;
+		background-repeat: no-repeat, repeat;
 		height: 100%;
 		left: 0;
 		opacity: 1;
